@@ -14,6 +14,13 @@ My preferred tech stack includes [React.js](https://react.dev/), [Next.js](https
 - 📫 How to reach me: Twitter: [@henokkhm](https://twitter.com/henokkhm), LinkedIn: [henokkhm](https://www.linkedin.com/in/henokkhm/)
 - ⚡ Fun fact: I have experience working remotely 
 
+<div><p>My profile overview: </p></div>
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=henokkhm&show_icons=true)
+<br />
+<br />
+<br />
+
 You can check out my portfolio [here](https://www.linkedin.com/in/henokkhm/)
 
 Let's connect, build, and leave a digital legacy... one line of code at a time.
